@@ -1,0 +1,6 @@
+discord.py
+asyncio
+Status
+PyNaCl
+praw
+imgurpython
